@@ -28,6 +28,7 @@ main {
 
 .logo {
   height: 500px;
+  float: right;
 }
 
 .nome-sobrenome {
