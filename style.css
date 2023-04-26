@@ -29,3 +29,8 @@ main {
 .logo {
   height: 500px;
 }
+
+.nome-sobrenome {
+  display: flex;
+  flex-direction: row;
+}
