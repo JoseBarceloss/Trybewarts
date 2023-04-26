@@ -24,3 +24,7 @@ header {
 main {
   display: flex;
 }
+
+.logo {
+  height: 500px;
+}
