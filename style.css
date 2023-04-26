@@ -11,3 +11,7 @@ header {
 .centered-text {
   text-align: center;
 }
+
+.trybewarts-login {
+  display: flex;
+}
