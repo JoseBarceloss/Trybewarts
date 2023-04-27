@@ -35,3 +35,16 @@ main {
   display: flex;
   flex-direction: row;
 }
+
+.container-do-form {
+  display: flex;
+  align-items: center; 
+}
+
+#input-email {
+  margin-right: 10px; 
+}
+
+#house {
+  margin-left: auto; 
+}
