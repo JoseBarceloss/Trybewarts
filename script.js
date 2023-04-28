@@ -11,3 +11,10 @@ formulario.addEventListener('submit', (event) => {
     alert('Email ou senha inválidos.');
   }
 });
+
+const checkbox = document.getElementById('agreement');
+const submitBtn = document.getElementById('submit-btn');
+
+checkbox.addEventListener('change', () => {
+  submitBtn.disabled = !checkbox.checked;
+});
